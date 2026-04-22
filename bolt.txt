@@ -1,0 +1,6 @@
+kenyer 500
+virsli 750
+kifli 50
+csoki 400
+cola 350
+ropi 375

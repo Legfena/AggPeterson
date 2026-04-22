@@ -1,0 +1,5 @@
+HalozatokII 2500
+Analizis 1800
+Fizika 2400
+Windows10 3000
+C_seged 1500

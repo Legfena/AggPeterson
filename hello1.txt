@@ -1,0 +1,2 @@
+A változó értéke: 5
+A változó értéke: 5
